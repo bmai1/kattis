@@ -1,4 +1,6 @@
+tempCodeRunnerFile.cpp
 *.out
 input.txt
 output.txt
 DS_Store
+.vscode
